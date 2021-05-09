@@ -45,7 +45,7 @@ export declare type Colors = {
     borderColor: string;
     card: string;
     gradients: Gradients;
-    binance: string;
+    polygon: string;
 };
 export declare type ZIndices = {
     dropdown: number;
