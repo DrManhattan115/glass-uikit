@@ -1830,7 +1830,7 @@ var useModal = function (modal, closeOnOverlayClick) {
 
 var Icon$I = function (props) {
     return (React.createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
-        React.createElement("image", { href: "images/fire/forge.png" })));
+        React.createElement("image", { height: 90, width: 90, href: "images/fire/forge.png" })));
 };
 
 var Icon$J = function (props) {
@@ -1872,7 +1872,7 @@ var Icon$P = function (props) {
 var Logo = function (_a) {
     var isDark = _a.isDark, props = __rest(_a, ["isDark"]);
     return (React.createElement(Svg, __assign({ viewBox: "0 0 205 26" }, props),
-        React.createElement("image", { width: "205", height: "26", href: isDark ? "/images/fire/logo-text.png" : "/images/fire/logo-text.png" })));
+        React.createElement("image", { width: "205", height: "26", href: isDark ? "/images/fire/title.png" : "/images/fire/title.png" })));
 };
 
 var Icon$Q = function (props) {
