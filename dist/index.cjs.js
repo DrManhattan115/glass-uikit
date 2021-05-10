@@ -1888,8 +1888,8 @@ var Icon$P = function (props) {
 
 var Logo = function (_a) {
     var isDark = _a.isDark, props = __rest(_a, ["isDark"]);
-    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 205 26" }, props),
-        React__default['default'].createElement("image", { width: "205", height: "26", href: isDark ? "/images/fire/title.png" : "/images/fire/title.png" })));
+    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 220 50" }, props),
+        React__default['default'].createElement("image", { width: "220", height: "50", href: isDark ? "/images/fire/title.png" : "/images/fire/title.png" })));
 };
 
 var Icon$Q = function (props) {
