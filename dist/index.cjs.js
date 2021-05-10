@@ -1842,8 +1842,8 @@ var useModal = function (modal, closeOnOverlayClick) {
 };
 
 var Icon$I = function (props) {
-    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
-        React__default['default'].createElement("g", { transform: "translate(0.000000,24.000000) scale(0.012000,-0.012000)" },
+    return (React__default['default'].createElement(Svg, __assign({ viewBox: "6 0 24 30" }, props),
+        React__default['default'].createElement("g", { transform: "translate(0.000000,30.000000) scale(0.015000,-0.015000)" },
             React__default['default'].createElement("path", { d: "M489 1733 c-18 -4 -129 -203 -129 -230 0 -10 9 -47 20 -83 11 -36 20\r\n-68 20 -72 0 -3 -16 -12 -35 -18 -29 -10 -35 -16 -35 -39 0 -42 20 -89 40 -96\r\n9 -3 29 -1 43 4 26 10 27 9 47 -62 43 -146 45 -152 70 -155 29 -5 180 37 199\r\n54 16 14 12 41 -27 175 l-20 66 432 123 c604 172 556 155 556 189 0 39 -19 88\r\n-36 95 -11 4 -907 -244 -980 -271 -6 -2 -28 61 -53 149 -24 84 -48 159 -53\r\n166 -10 12 -28 14 -59 5z" }),
             React__default['default'].createElement("path", { d: "M1120 1224 c-113 -51 -231 -105 -264 -119 -126 -55 -38 -31 224 60\r\n150 53 277 98 281 101 11 7 -12 54 -25 53 -6 0 -103 -43 -216 -95z" }),
             React__default['default'].createElement("path", { d: "M1272 1136 c-144 -40 -266 -77 -270 -81 -4 -4 4 -5 18 -2 14 3 146\r\n27 293 54 l268 48 -3 25 c-2 17 -10 26 -23 27 -11 1 -138 -31 -283 -71z" }),
