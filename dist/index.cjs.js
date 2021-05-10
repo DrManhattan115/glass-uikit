@@ -1842,8 +1842,11 @@ var useModal = function (modal, closeOnOverlayClick) {
 };
 
 var Icon$I = function (props) {
-    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
-        React__default['default'].createElement("image", { height: 90, width: 90, href: "images/fire/forge.png" })));
+    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 200 200" }, props),
+        React__default['default'].createElement("path", { d: "M489 1733 c-18 -4 -129 -203 -129 -230 0 -10 9 -47 20 -83 11 -36 20\r\n-68 20 -72 0 -3 -16 -12 -35 -18 -29 -10 -35 -16 -35 -39 0 -42 20 -89 40 -96\r\n9 -3 29 -1 43 4 26 10 27 9 47 -62 43 -146 45 -152 70 -155 29 -5 180 37 199\r\n54 16 14 12 41 -27 175 l-20 66 432 123 c604 172 556 155 556 189 0 39 -19 88\r\n-36 95 -11 4 -907 -244 -980 -271 -6 -2 -28 61 -53 149 -24 84 -48 159 -53\r\n166 -10 12 -28 14 -59 5z" }),
+        React__default['default'].createElement("path", { d: "M1120 1224 c-113 -51 -231 -105 -264 -119 -126 -55 -38 -31 224 60\r\n150 53 277 98 281 101 11 7 -12 54 -25 53 -6 0 -103 -43 -216 -95z" }),
+        React__default['default'].createElement("path", { d: "M1272 1136 c-144 -40 -266 -77 -270 -81 -4 -4 4 -5 18 -2 14 3 146\r\n27 293 54 l268 48 -3 25 c-2 17 -10 26 -23 27 -11 1 -138 -31 -283 -71z" }),
+        React__default['default'].createElement("path", { d: "M750 955 l0 -35 -237 -2 -238 -3 61 -60 c110 -108 242 -169 391 -182\r\n82 -7 124 -27 153 -75 51 -83 0 -188 -102 -212 -27 -6 -28 -9 -28 -66 l0 -60\r\n186 2 186 3 12 35 c12 37 65 80 100 80 37 0 87 -39 104 -80 l17 -40 183 0 182\r\n0 0 65 c0 53 -3 65 -16 65 -80 0 -190 89 -213 172 -37 131 52 267 192 292 l37\r\n7 0 64 0 65 -485 0 -485 0 0 -35z" })));
 };
 
 var Icon$J = function (props) {
@@ -2872,7 +2875,7 @@ var baseColors = {
 var brandColors = {
     polygon: "#2891f9",
 };
-var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#303444", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeaf4", tertiary: "#EFF4F5", text: "#cae4f0", textDisabled: "#BDC2C4", textSubtle: "#8f80ba", borderColor: "#E9EAEB", card: "#FFFFFF", gradients: {
+var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#303444", backgroundDisabled: "#E9EAEB", contrast: "#191326", invertedContrast: "#FFFFFF", input: "#eeeaf4", tertiary: "#EFF4F5", text: "black", textDisabled: "#BDC2C4", textSubtle: "#8f80ba", borderColor: "#E9EAEB", card: "#FFFFFF", gradients: {
         bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
     } });
 var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { secondary: "white", background: "#303444", backgroundDisabled: "#3c3742", contrast: "#FFFFFF", invertedContrast: "#191326", input: "#483f5a", primaryDark: "#0098A1", tertiary: "#353547", text: "#cae4f0", textDisabled: "#666171", textSubtle: "#c9c4d4", borderColor: "#524B63", card: "#27262c", gradients: {
