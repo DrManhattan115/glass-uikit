@@ -2856,10 +2856,10 @@ var templateObject_1$K;
 var baseColors = {
     failure: "#ED4B9E",
     primary: "#92c855",
-    primaryBright: "white",
-    primaryDark: "black",
+    primaryBright: "#92c855",
+    primaryDark: "#92c855",
     secondary: "white",
-    success: "#92c855",
+    success: "white",
     warning: "#FFB237",
 };
 var brandColors = {
