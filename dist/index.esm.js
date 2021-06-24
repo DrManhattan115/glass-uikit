@@ -2197,14 +2197,14 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/polydragonfinance",
+                href: "https://t.me/ourglass",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/polydragonfi",
+        href: "https://twitter.com/ourdotglass",
     },
 ];
 var MENU_HEIGHT = 64;
