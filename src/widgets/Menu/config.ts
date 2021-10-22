@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/ourglass",
+        href: "https://t.me/flokiswap",
       },
       //   // {
       //   //   label: "Bahasa Indonesia",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/ourdotglass",
+    href: "",
   },
   // {
   //   label: "Reddit",

@@ -2210,14 +2210,14 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/ourglass",
+                href: "https://t.me/flokiswap",
             },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/ourdotglass",
+        href: "",
     },
 ];
 var MENU_HEIGHT = 64;
